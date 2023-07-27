@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725646969214",
+    "project_id": "chat-app-a4f97",
+    "storage_bucket": "chat-app-a4f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725646969214:android:1844f4d3b43b0e7ab78b2f",
+        "android_client_info": {
+          "package_name": "com.asifflux.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725646969214-jmjb1lfg66544igbl9gln7lrlfi8a2f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQnqnrNYNXheHJrTzdlzJz8s3wP8K2d1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725646969214-jmjb1lfg66544igbl9gln7lrlfi8a2f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
